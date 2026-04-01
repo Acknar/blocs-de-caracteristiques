@@ -1,0 +1,42 @@
+{
+  "id": "statblocks-ffg",
+  "title": "Statblocks FFG",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Tom",
+      "discord": "tom3086",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "blocs",
+      "label": "Blocs de Caractéristiques",
+      "path": "packs/blocs",
+      "type": "JournalEntry",
+      "system": "starwarsffg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "obsidian-bridge",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "Un module compatible entre FoundryVTT et Obsidian pour avoir des statblocs modifiables dans les journaux de foundry"
+}
