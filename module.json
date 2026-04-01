@@ -1,6 +1,6 @@
 {
-  "id": "statblocks-ffg",
-  "title": "Statblocks FFG",
+  "id": "blocs-de-caracteristiques",
+  "title": "Blocs de Caractéristiques FFG",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
@@ -13,13 +13,16 @@
       "flags": {}
     }
   ],
+  "url": "https://github.com/Acknar/blocs-de-caracteristiques",
+  "manifest": "https://github.com/Acknar/blocs-de-caracteristiques/releases/download/v1.0/module.json",
+  "download": "https://github.com/Acknar/blocs-de-caracteristiques/releases/download/v1.0/blocs-de-caracteristiques.zip",
   "flags": {
     "canUpload": true
   },
   "packs": [
     {
       "name": "blocs",
-      "label": "Blocs de Caractéristiques",
+      "label": "blocs-de-caracteristiques",
       "path": "packs/blocs",
       "type": "JournalEntry",
       "system": "starwarsffg",
