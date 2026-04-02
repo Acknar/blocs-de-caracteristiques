@@ -1,5 +1,3 @@
-2026/04/01-16:26:16.807835 7f99bd73d6c0 Delete type=3 #1
-2026/04/01-16:28:32.024995 7f99b02376c0 Level-0 table #5: started
-2026/04/01-16:28:32.028360 7f99b02376c0 Level-0 table #5: 18548 bytes OK
-2026/04/01-16:28:32.033056 7f99b02376c0 Delete type=0 #3
-2026/04/01-16:28:32.043247 7f99b02376c0 Manual compaction at level-0 from '!folders!GCM1H8FgfSTL6KuK' @ 72057594037927935 : 1 .. '!journal.pages!vmR4rQsse8n5pVPN.EIDe61fWFgzGBNQS' @ 0 : 0; will stop at (end)
+2026/04/01-17:00:10.861657 7f99bcf3c6c0 Recovering log #8
+2026/04/01-17:00:10.868899 7f99bcf3c6c0 Delete type=3 #6
+2026/04/01-17:00:10.868959 7f99bcf3c6c0 Delete type=0 #8
